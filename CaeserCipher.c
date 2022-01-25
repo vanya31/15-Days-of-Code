@@ -57,7 +57,7 @@ c2 =c2+'Z'-'A'+1;
 a[i] = c2;
 }
 }
-        //printf("Encrypted message is: %s", b);
+       // printf("Encrypted message is: %s", b);
        printf("Decrypted message is: %s",a);//
         return 0;
 
